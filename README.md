@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub!
 
-<!--
-**9Gaurav9/9Gaurav9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **computer vision**, **machine learning**, and **natural language processing**. 🚀 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me:
+- 🌐 [Portfolio Website](https://github.com/9Gaurav9)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-upadhyay-b0ab51122/)  
+ 
+
+---
+
+## 💻 My Skills
+
+### Languages:
+- **Python**  
+- **C++**  
+- **JavaScript**  
+- **Bash**
+
+### Tools:
+- **Git**  
+- **Docker**  
+- **Google Colab**  
+- **WSL**
+
+### Frameworks:
+- **TensorFlow**  
+- **Keras**  
+- **OpenCV**  
+- **ROS**
+
+### CI/CD:
+- **GitHub Actions**  
+- **Jenkins**  
+
+### Operating Systems:
+- **Linux**  
+- **Windows**  
+
+### Hardware:
+- **NVIDIA Jetson Platforms**  
+- **Raspberry Pi**  
+- **TurtleBot**
+
+---
+
+## ⚙️ GitHub Statistics
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+**🎯 Let's collaborate on innovative projects!**
