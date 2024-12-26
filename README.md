@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to my GitHub!
 
-I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **computer vision**, **machine learning**, and **natural language processing**. 🚀 
+I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **computer vision** and **machine learning**. 🚀 
 
 ---
 
