@@ -37,20 +37,8 @@ I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **co
 <!-- ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Gaurav9&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Gaurav9&layout=compact)
 
----
-### Top Repository
 
-Check out my most active repository:
-[Your Repository Name](https://github.com/9Gaurav9/YourRepository)
 
-### Top Repositories
-
-![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=9Gaurav9&layout=compact)
-
-### GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Gaurav9&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9Gaurav9&show_icons=true&count_private=true)
 
 
 
