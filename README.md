@@ -5,9 +5,10 @@ I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **co
 ---
 
 ## 🔗 Connect with Me:
-- 🌐 [Portfolio Website](https://github.com/9Gaurav9)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-upadhyay-b0ab51122/)  
- 
+- 🌐 [Portfolio Website](https://github.com/9Gaurav9) ![GitHub logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-upadhyay-b0ab51122/) ![LinkedIn logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg)
+- 🤗 [Huggingface](https://huggingface.co/ugaurav) ![Huggingface logo](https://huggingface.co/front/assets/huggingface_logo.svg)
+
 
 ---
 
