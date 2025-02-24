@@ -7,7 +7,9 @@ I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **co
 ## 🔗 Connect with Me:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/9Gaurav9)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-upadhyay-b0ab51122/)
+
 [![Huggingface](https://img.shields.io/badge/-Huggingface-FF4F00?logo=huggingface&logoColor=white)](https://huggingface.co/ugaurav)
 
 
