@@ -14,6 +14,8 @@ I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **co
 
 ---
 
+## 🧑‍💻💻 Skills:
+
 | **Category**        | **Technologies**                                                                                                                                                                                                                                         |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**        | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)                                                                                         |
