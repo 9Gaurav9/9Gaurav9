@@ -27,7 +27,7 @@ I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **co
 | **Mathematics/ML**   | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/-Simulink-0076A8?logo=mathworks&logoColor=white) ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
 | **Office Tools**     | ![Microsoft Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoft-word&logoColor=white)                                                     |
 | **Documentation**    | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)                                                                                         |
-| **Others**           | SLAM, Computer Vision, UML, Keil uVision, Proteus, VLOOKUP                                                                                                                                                                                              |                                                              
+| **Others**           | SLAM, UML, VLOOKUP                                                                                                                                                                                              |                                                              
 
 
 
