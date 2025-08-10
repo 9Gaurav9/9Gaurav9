@@ -39,7 +39,7 @@ I’m Gaurav Upadhyay, a robotics enthusiast and engineer with expertise in **co
 <!-- ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=9Gaurav9&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9Gaurav9&layout=compact)
 
-
+![Visitor Count](https://count.getloli.com/get/@9Gaurav9?theme=rule34)
 
 
 
